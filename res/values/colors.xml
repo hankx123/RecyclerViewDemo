@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_item_press">#ffff00ff</color>
+    <color name="color_item_normal">#4400ff00</color>
+</resources>
